@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youngji-Ko
 - 🙌 Welcome to my GitHub page!
-- 🌱 I’m currently learning Artificial intelligence (AI)
+- 🌱 I’m currently learning Artificial Intelligence (AI)
 
 
 <!---
